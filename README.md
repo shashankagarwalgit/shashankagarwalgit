@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **NodeJS, ReactJS and etc..**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ershashankgit?tab=repositories](https://github.com/ershashankgit?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/ershashankgit?tab=repositories](https://github.com/shashankagarwalgit?tab=repositories)
 
-- Visit My Portfolio [https://about.shashank.my.id](https://about.shashank.my.id)
+- Visit My Portfolio [https://shashankag.web.app](https://shashankag.web.app)
 
-- 📫 How to reach me **contact@shashank.my.id**
+- 📫 How to reach me **shashank.dev@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
