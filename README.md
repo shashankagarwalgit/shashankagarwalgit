@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/shashank_my_id" target="blank"><img src="https://img.shields.io/twitter/follow/shashank_my_id?logo=twitter&style=for-the-badge" alt="shashank_my_id" /></a> </p>
 
-- 🔭 I’m currently working on **Keeper App, Crypto Currency**
+- 🔭 I’m currently working on **Decentralised File Storage System**
 
-- 🌱 I’m currently learning **NodeJS, ReactJS and etc..**
+- 🌱 I’m currently learning **Blockchain, Web3.0 and etc...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shashankagarwalgit?tab=repositories](https://github.com/shashankagarwalgit?tab=repositories)
 
